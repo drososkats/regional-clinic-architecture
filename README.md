@@ -52,3 +52,4 @@ Key AWS integrations include:
 * **Amazon RDS (Multi-AZ):** Automated failover and synchronous replication for PostgreSQL.
 * **Amazon S3:** Highly durable object storage for medical records, replacing traditional EBS volumes.
 * **AWS Cognito:** Managed Identity Proxying for secure user authentication.
+* **AWS CloudWatch:** Managed Monitoring for the services.
