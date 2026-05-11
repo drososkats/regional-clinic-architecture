@@ -17,7 +17,7 @@ This repository contains the comprehensive architectural design, capacity dimens
 This project was developed as part of the "Cloud Systems Design" course for the MSc program at Harokopio University of Athens.
 
 ## 👥 Project Team
-* **Katsimpras Drosos** * **Likollari Arntint**
+* **Katsimpras Drosos** * **Likollari Arntit**
 * **Institution:** Harokopio University of Athens (DIT)
 * **Course:** Cloud System Design
   
