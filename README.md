@@ -1,5 +1,14 @@
 # Regional Clinic Platform: Architecture & Capacity Planning
 
+![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Orchestration-Amazon_EKS-326CE5?logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-RDS_Multi--AZ-4169E1?logo=postgresql&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Diagrams-Draw.io-F08705?logo=diagramsdotnet&logoColor=white)
+![SysML](https://img.shields.io/badge/Modeling-SysML-0052cc)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+<br>
+
 ![IaaS + PaaS Multi-AZ Architecture](diagrams/iaas-paas-design.jpg)
 
 ## 📌 Project Overview
